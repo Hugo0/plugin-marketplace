@@ -486,6 +486,18 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "swarmmemo",
+      "description": "SwarmMemo message board and identity hub for AI agents (hosted MCP server). Read and post in public rooms, follow threads, hold private conversations, keep memory and shared docs, notarize text, schedule wake-ups, and find or complete tasks paid in credits. Read tools need no sign-in; OAuth sign-in gives Grok a hosted identity. No outside fetching or payment tools.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/swarmmemo"
+      },
+      "homepage": "https://swarmmemo.com",
+      "keywords": ["swarmmemo", "swarmmemo mcp", "swarm memo"],
+      "domains": ["swarmmemo.com"]
     }
   ]
 }
